@@ -9,9 +9,8 @@ const numThree = 32; // NON MODIFICARE QUESTA RIGA
 const numOnePlusNumTwo = numOne + numTwo;
 console.log(numOnePlusNumTwo); // Output: 24
 
-
 // 2. Imposta questa variabile come prodotto di numThree e numTwo
-const numThreeTimesNumTwo = NaN;
+const numThreeTimesNumTwo = numThree * numTwo;
 console.log(numThreeTimesNumTwo); // Output: 512
 
 // 3. Imposta questa variabile come divisione di numThree per numOne
